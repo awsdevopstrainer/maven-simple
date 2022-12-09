@@ -1,5 +1,4 @@
 package com.github.jitpack;
-import java.lang;
 
 /**
  * Hello world! test
